@@ -13,10 +13,10 @@
     </a>
   </p>
 </div>
+<center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=haunxx"></img>
+  </center>
 <!--   profile-green-animate -->
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haunxx" alt="haunxx" /></a>
-</p>
+
 
 
