@@ -40,10 +40,4 @@ Thrilled about the journey of turning *caffeine into code!*
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<div> 
-  <p align="center">
-    <a href="#"><img title="Snake animation" src="snake.svg">
-    </a>
-  </p>
-</div>
 
