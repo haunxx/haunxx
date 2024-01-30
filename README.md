@@ -16,6 +16,6 @@
   </p>
 </div>
 
-![huabin's snake gif](https://github.com/huabin/huabin/blob/output/github-contribution-grid-snake.svg)
+![HANAN's snake gif](https://github.com/haunxx/haunxx/blob/output/github-contribution-grid-snake.svg)
 
 
