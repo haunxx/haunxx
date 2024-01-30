@@ -1,6 +1,7 @@
 A self-taught **Flutter developer** on a journey of constant learning and exploration.
 
-## 🌱 Exploring
+## 🌱 Exploring [![Flutter](https://flutter.dev/assets/homepage/icon/flutter-lockup.png)](https://flutter.dev)
+
 - Flutter **Widgets**
 - **State Management** in Flutter
 - Flutter **Animations** and **UI/UX Design**
