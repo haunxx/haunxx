@@ -1,3 +1,16 @@
+ a passionate self-taught Flutter developer 🚀.
+
+🌱 Currently Learning:
+  - State management in Flutter
+  - Flutter animations and UI/UX design
+  - Mobile app testing strategies
+
+🎯 Goals:
+  - Master Flutter and become a proficient mobile app developer
+  - Contribute more to open-source projects
+  - Explore cross-platform development
+
+🌟 Excited about the journey of turning caffeine into code! ☕💻
 
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haunxx&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
