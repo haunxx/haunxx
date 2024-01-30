@@ -1,7 +1,7 @@
 A self-taught **Flutter developer** on a journey of constant learning and exploration.
 
 ## 🌱 Exploring
-
+- Flutter **Widgets**
 - **State Management** in Flutter
 - Flutter **Animations** and **UI/UX Design**
 - Mobile App **Testing Strategies**
