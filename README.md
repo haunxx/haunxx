@@ -1,11 +1,11 @@
- a passionate self-taught Flutter developer 🚀.
+    Self-taught Flutter developer 🚀.
 
-🌱 Currently Learning:
+🌱 Exploring:
   - State management in Flutter
   - Flutter animations and UI/UX design
   - Mobile app testing strategies
 
-🎯 Goals:
+🎯 Aspirations:
   - Master Flutter and become a proficient mobile app developer
   - Contribute more to open-source projects
   - Explore cross-platform development
