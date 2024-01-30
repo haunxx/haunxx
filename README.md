@@ -14,7 +14,6 @@ A self-taught **Flutter developer** on a journey of constant learning and explor
 
 Thrilled about the journey of turning *caffeine into code!*
 
-Let's connect and code together! 🚀
 
 
   <a href="#">
