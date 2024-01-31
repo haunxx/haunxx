@@ -1,19 +1,6 @@
-A self-taught **Flutter developer** on a journey of constant learning and exploration.
+A self-taught **Flutter developer**.
 
-## 🌱 Exploring 
-
-- Flutter **Widgets**
-- **State Management** in Flutter
-- Flutter **Animations** and **UI/UX Design**
-- Mobile App **Testing Strategies**
-
-## 🎯 Aspirations
-
-- Master Flutter and become a proficient mobile app developer
-- Contribute more to open-source projects
-- Explore **Cross-platform Development**
-
-Thrilled about the journey of turning *caffeine into code!*
+Thrilled about the journey of turning *caffeine ☕ into code!*
 
 
 
