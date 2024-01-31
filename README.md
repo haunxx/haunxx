@@ -1,6 +1,6 @@
 A self-taught **Flutter developer**.
 
-Thrilled about the journey of turning *caffeine ☕ into code!*
+Thrilled about the journey of turning *caffeine* ☕ *into code!*
 
 
 
