@@ -1,6 +1,4 @@
 
-Low-key teaching myself *Flutter* dev..
-
 Thrilled about the journey of turning *caffeine* ☕ *into code!*
 
 
